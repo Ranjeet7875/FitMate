@@ -122,7 +122,7 @@ npm run build
 
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
-- **Camera**: Canvas API & MediaDevices API
+- **Camera**: Canvas API & observer API
 - **Storage**: Local Storage / IndexedDB
 - **Geolocation**: Geolocation API
 - **Charts**: Chart.js / Recharts
