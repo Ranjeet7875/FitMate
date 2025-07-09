@@ -225,16 +225,4 @@ If you encounter any issues or have questions:
 - Check the [Wiki](https://github.com/yourusername/fittracker/wiki) for detailed guides
 - Review the [FAQ](https://github.com/yourusername/fittracker/blob/main/FAQ.md)
 
-## 🔮 Roadmap
-
-- [ ] AI-powered form analysis
-- [ ] Social features and challenges
-- [ ] Wearable device integration
-- [ ] Advanced analytics dashboard
-- [ ] Multi-language support
-
----
-
-**⚠️ Disclaimer**: This app is for educational and personal fitness tracking purposes. Always consult a fitness professional or healthcare provider for medical or fitness advice.
-
 **🌟 Star this repository** if you find it helpful!
