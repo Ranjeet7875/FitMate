@@ -128,33 +128,36 @@ npm run build
 - **Charts**: Chart.js / Recharts
 - **Icons**: Lucide React
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-fittracker/
-├── public/
-│   ├── index.html
-│   └── manifest.json
-├── src/
-│   ├── components/
-│   │   ├── FormChecker.jsx
-│   │   ├── QuickActions.jsx
-│   │   ├── SessionsLog.jsx
-│   │   └── Settings.jsx
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── Sessions.jsx
-│   │   └── Tutorials.jsx
-│   ├── hooks/
-│   │   ├── useCamera.js
-│   │   ├── useGeolocation.js
-│   │   └── useLocalStorage.js
-│   ├── utils/
-│   │   ├── formAnalysis.js
-│   │   └── dataStorage.js
-│   └── App.jsx
-├── package.json
-└── README.md
+fitmate/
+  ├── public/
+  │   └── vite.svg
+  ├── src/
+  │   ├── App.jsx
+  │   ├── App.css
+  │   ├── index.css
+  │   ├── main.jsx
+  │   ├── assets/
+  │   │   └── react.svg
+  │   ├── components/
+  │   │   ├── CanvasFormChecker.jsx
+  │   │   ├── ExerciseTutorials.jsx
+  │   │   └── GeoLogger.jsx
+  │   └── utils/
+  │       ├── canvasUtils.js
+  │       ├── geolocation.js
+  │       └── observer.js
+  ├── index.html
+  ├── package.json
+  ├── package-lock.json
+  ├── postcss.config.js
+  ├── tailwind.config.js
+  ├── vite.config.js
+  ├── eslint.config.js
+  └── README.md
+```
 ```
 
 ## 🔧 Configuration
