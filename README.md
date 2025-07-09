@@ -125,8 +125,6 @@ npm run build
 - **Camera**: Canvas API & observer API
 - **Storage**: Local Storage / IndexedDB
 - **Geolocation**: Geolocation API
-- **Charts**: Chart.js / Recharts
-- **Icons**: Lucide React
 
 ## Project Structure
 
